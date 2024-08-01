@@ -1,0 +1,17 @@
+.menus {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    margin-bottom: 50px;
+    min-height: 100vh;
+}
+.menu img {
+    width: 95%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,18 @@
+.background {
+    width: 101%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-text {
+    margin-top: -140px;
+    max-width: 800px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.background img {
+    width: 185%;
+}
