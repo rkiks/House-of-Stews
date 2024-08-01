@@ -14,12 +14,15 @@ body {
 }
 
 .background-pic img{
-    max-width: 600px;
+    width: 500px;
+    height: auto;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     margin-left: 10px;
     margin-right: auto;
+    margin-bottom: -40px;
+    margin-top: -20px;
 }
 
 .headingText {

@@ -11,15 +11,15 @@ const Contact = () => {
         <img src={image1} alt=''/>
         </div>
             <div className='infos'>
-                <h2>Restaurant Address:</h2>
+                <h2>Restaurant Address</h2>
                 <p className='text-blk description'>76 Oswald Dr. Spruce Grove T7X 1A8</p>
             
             
-                <h2>Email Address:</h2>
+                <h2>Email Address</h2>
                 <p className='text-blk description'>houseofstewsfil@gmail.com</p>
             
             
-                <h2>Phone Number:</h2>
+                <h2>Phone Number</h2>
                 <p className='text-blk description'>780-599-0036</p>
             </div>
         
