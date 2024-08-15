@@ -1,13 +1,15 @@
 import React from 'react'
-import image1 from '../../assets/houseofstewbg.jpg'
+import image1 from '../../assets/gallery/catering5.jpg'
 import image2 from '../../assets/gallery/catering1.jpg'
 import image3 from '../../assets/gallery/catering2.jpg'
 import image4 from '../../assets/gallery/catering3.jpg'
+import image5 from '../../assets/gallery/catering4.jpg'
 import './Gallery.css'
 
 const Gallery = () => {
   return (
     <div className='gallery-center'>
+        
      <main>
     <swiper-container style={
         {
@@ -19,7 +21,7 @@ const Gallery = () => {
     navigation="true" 
     className="mySwiper">
             <swiper-slide lazy="true">
-                <img src={image1} loading="lazy" alt="" />
+                <img src={image5} loading="lazy" alt="" />
             </swiper-slide>
                 
             <swiper-slide lazy="true">
