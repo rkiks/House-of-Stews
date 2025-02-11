@@ -11,7 +11,7 @@ const Contact = () => {
         <img src={image1} alt=''/>
         </div>
             <div className='infos'>
-                <h2>Restaurant Address</h2>
+                <h2>Address</h2>
                 <p className='text-blk description'>76 Oswald Dr. Spruce Grove T7X 1A8</p>
             
             
